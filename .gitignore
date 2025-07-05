@@ -1,0 +1,29 @@
+# === Compiled binaries ===
+compress
+compress.exe
+decompress
+decompress.exe
+
+# === Output files ===
+compressed.huff
+output.txt
+
+# === System files ===
+*.log
+*.DS_Store
+Thumbs.db
+
+# === VS Code settings ===
+.vscode/
+
+# === Backup files ===
+*~
+*.swp
+*.bak
+
+# === CMake or build artifacts (if added later) ===
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
